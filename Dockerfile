@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/Sf0gmailcomceb5ace3/ceb5ace3 /root/CyberQueen
+RUN git clone https://github.com/ussanna-epa-uba-left/musical-lamp /root/CyberQueen
 
 WORKDIR /root/CyberQueen/
 
